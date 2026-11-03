@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Xin Yi! 👋
 
-<!--
-**loxinyi/loxinyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Year 2 Diploma in Applied AI & Analytics student at Singapore Polytechnic.
 
-Here are some ideas to get you started:
+📊 Aspiring Data Analyst interested in transforming data into meaningful business insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+- **Programming & Analysis:** Python, SQL, Excel
+- **Data Visualisation:** Power BI, Tableau
+- **Data Analytics:** Data Cleaning, Exploratory Data Analysis, Customer Segmentation
+- **Data Engineering:** Data Warehousing, Star Schema, ETL
+
+### 📂 Featured Projects
+
+**[Library Data Warehouse & SQL Analysis](https://github.com/loxinyi/library-data-warehouse-analysis)**
+
+Designed a star-schema data warehouse and analysed 12,343 completed library loans using SQL to explore borrowing trends, membership behaviour and late returns.
+
+### 🌱 Currently Learning
+- Advanced SQL and data analytics
+- Machine learning and predictive modelling
+- Data visualisation and dashboard design
+
+### 📫 Connect With Me
+[LinkedIn](https://www.linkedin.com/in/loxinyi)
